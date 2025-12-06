@@ -1,0 +1,32 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "mealImage": "https://picsum.photos/seed/appetizer1/400/300",
+    "mealName": "Bruschetta",
+    "mealPrice": 7.99,
+    "mealDescription": "Grilled bread topped with tomatoes, basil, and olive oil.",
+    "mealProtein": 6,
+    "mealCarbohydrates": 28,
+    "mealCalories": 220
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "mealImage": "https://picsum.photos/seed/appetizer2/400/300",
+    "mealName": "Stuffed Mushrooms",
+    "mealPrice": 8.49,
+    "mealDescription": "Mushrooms stuffed with cheese and herbs.",
+    "mealProtein": 9,
+    "mealCarbohydrates": 15,
+    "mealCalories": 190
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333333",
+    "mealImage": "https://picsum.photos/seed/appetizer3/400/300",
+    "mealName": "Garlic Shrimp",
+    "mealPrice": 12.99,
+    "mealDescription": "Shrimp sautéed in garlic and butter.",
+    "mealProtein": 20,
+    "mealCarbohydrates": 5,
+    "mealCalories": 250
+  }
+]

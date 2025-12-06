@@ -1,7 +1,7 @@
 [
   {
     "id": "11111111-1111-1111-1111-111111111111",
-    "mealImage": "https://picsum.photos/seed/appetizer1/400/300",
+    "mealImage": "https://picsum.photos/seed/bruschetta/600/400",
     "mealName": "Bruschetta",
     "mealPrice": 7.99,
     "mealDescription": "Grilled bread topped with tomatoes, basil, and olive oil.",
@@ -11,7 +11,7 @@
   },
   {
     "id": "22222222-2222-2222-2222-222222222222",
-    "mealImage": "https://picsum.photos/seed/appetizer2/400/300",
+    "mealImage": "https://picsum.photos/seed/stuffed-mushrooms/600/400",
     "mealName": "Stuffed Mushrooms",
     "mealPrice": 8.49,
     "mealDescription": "Mushrooms stuffed with cheese and herbs.",
@@ -21,12 +21,42 @@
   },
   {
     "id": "33333333-3333-3333-3333-333333333333",
-    "mealImage": "https://picsum.photos/seed/appetizer3/400/300",
+    "mealImage": "https://picsum.photos/seed/garlic-shrimp/600/400",
     "mealName": "Garlic Shrimp",
     "mealPrice": 12.99,
     "mealDescription": "Shrimp sautéed in garlic and butter.",
     "mealProtein": 20,
     "mealCarbohydrates": 5,
     "mealCalories": 250
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444444",
+    "mealImage": "https://picsum.photos/seed/caprese-salad/600/400",
+    "mealName": "Caprese Salad",
+    "mealPrice": 9.49,
+    "mealDescription": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze.",
+    "mealProtein": 10,
+    "mealCarbohydrates": 12,
+    "mealCalories": 210
+  },
+  {
+    "id": "55555555-5555-5555-5555-555555555555",
+    "mealImage": "https://picsum.photos/seed/chicken-wings/600/400",
+    "mealName": "Spicy Chicken Wings",
+    "mealPrice": 11.49,
+    "mealDescription": "Crispy wings tossed in a spicy sauce, served with ranch.",
+    "mealProtein": 24,
+    "mealCarbohydrates": 6,
+    "mealCalories": 340
+  },
+  {
+    "id": "66666666-6666-6666-6666-666666666666",
+    "mealImage": "https://picsum.photos/seed/nachos/600/400",
+    "mealName": "Loaded Nachos",
+    "mealPrice": 10.99,
+    "mealDescription": "Tortilla chips topped with cheese, jalapeños, salsa, and sour cream.",
+    "mealProtein": 14,
+    "mealCarbohydrates": 48,
+    "mealCalories": 430
   }
 ]

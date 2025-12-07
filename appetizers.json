@@ -1,6 +1,6 @@
 [
   {
-    "id": "11111111-1111-1111-1111-111111111111",
+    "id": "1",
     "mealImage": "https://picsum.photos/seed/bruschetta/600/400",
     "mealName": "Bruschetta",
     "mealPrice": 7.99,
@@ -10,7 +10,7 @@
     "mealCalories": 220
   },
   {
-    "id": "22222222-2222-2222-2222-222222222222",
+    "id": "2",
     "mealImage": "https://picsum.photos/seed/stuffed-mushrooms/600/400",
     "mealName": "Stuffed Mushrooms",
     "mealPrice": 8.49,
@@ -20,7 +20,7 @@
     "mealCalories": 190
   },
   {
-    "id": "33333333-3333-3333-3333-333333333333",
+    "id": "3",
     "mealImage": "https://picsum.photos/seed/garlic-shrimp/600/400",
     "mealName": "Garlic Shrimp",
     "mealPrice": 12.99,
@@ -30,7 +30,7 @@
     "mealCalories": 250
   },
   {
-    "id": "44444444-4444-4444-4444-444444444444",
+    "id": "4",
     "mealImage": "https://picsum.photos/seed/caprese-salad/600/400",
     "mealName": "Caprese Salad",
     "mealPrice": 9.49,
@@ -40,7 +40,7 @@
     "mealCalories": 210
   },
   {
-    "id": "55555555-5555-5555-5555-555555555555",
+    "id": "5",
     "mealImage": "https://picsum.photos/seed/chicken-wings/600/400",
     "mealName": "Spicy Chicken Wings",
     "mealPrice": 11.49,
@@ -50,7 +50,7 @@
     "mealCalories": 340
   },
   {
-    "id": "66666666-6666-6666-6666-666666666666",
+    "id": "6",
     "mealImage": "https://picsum.photos/seed/nachos/600/400",
     "mealName": "Loaded Nachos",
     "mealPrice": 10.99,

@@ -58,5 +58,35 @@
     "mealProtein": 14,
     "mealCarbohydrates": 48,
     "mealCalories": 430
+  },
+  {
+    "id": "7",
+    "mealImage": "https://picsum.photos/seed/nachos/600/400",
+    "mealName": "Loaded Nachos",
+    "mealPrice": 10.99,
+    "mealDescription": "Tortilla chips topped with cheese, jalapeños, salsa, and sour cream.",
+    "mealProtein": 14,
+    "mealCarbohydrates": 48,
+    "mealCalories": 430
+  },
+  {
+    "id": "8",
+    "mealImage": "https://picsum.photos/seed/nachos/600/400",
+    "mealName": "Loaded Nachos",
+    "mealPrice": 10.99,
+    "mealDescription": "Tortilla chips topped with cheese, jalapeños, salsa, and sour cream.",
+    "mealProtein": 14,
+    "mealCarbohydrates": 48,
+    "mealCalories": 430
+  },
+  {
+    "id": "9",
+    "mealImage": "https://picsum.photos/seed/nachos/600/400",
+    "mealName": "Loaded Nachos",
+    "mealPrice": 10.99,
+    "mealDescription": "Tortilla chips topped with cheese, jalapeños, salsa, and sour cream.",
+    "mealProtein": 14,
+    "mealCarbohydrates": 48,
+    "mealCalories": 430
   }
 ]
